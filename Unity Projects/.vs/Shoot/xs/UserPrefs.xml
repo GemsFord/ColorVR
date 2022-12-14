@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{B1D60D71-6F07-A6A0-B2D2-3327909400BE}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bf989c2c-b262-49cd-aa3f-e2f36fc490a2" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Exam/ColorWheel.cs">
+    <Files>
+      <File FileName="Assets/Oculus/SampleFramework/Usage/Locomotion/Scripts/LocomotionSampleSupport.cs" Line="1" Column="1" />
+      <File FileName="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/PassthroughStyler.cs" Line="159" Column="90" />
+      <File FileName="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/GrabObject.cs" Line="48" Column="26" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/DebugUI/Scripts/LaserPointer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRInputModule.cs" Line="1" Column="1" />
+      <File FileName="Assets/Oculus/SampleFramework/Usage/Passthrough/Scripts/ObjectManipulator.cs" Line="147" Column="31" />
+      <File FileName="Assets/Exam/ColorWheel.cs" Line="30" Column="1" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRRaycaster.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shoot" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Exam" expanded="True">
+                <Node name="ColorWheel.cs" selected="True" />
+              </Node>
+              <Node name="Oculus" expanded="True">
+                <Node name="SampleFramework" expanded="True">
+                  <Node name="Core" expanded="True">
+                    <Node name="DebugUI" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="Editor" expanded="True" />
+                  <Node name="Usage" expanded="True">
+                    <Node name="Locomotion" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                    <Node name="Passthrough" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="VR" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Util" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
